@@ -1,6 +1,8 @@
-### Olá, Eu sou Gabriel André de Jesus 👋🏽
+<div align="center">
+  <h3>Olá, eu sou Gabriel André de Jesus 👋🏽</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andré-de-jesus)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andré-de-jesus)
+</div>
 
 ## Tecnologias que eu uso no meu dia a dia
 
